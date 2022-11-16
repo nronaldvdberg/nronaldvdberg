@@ -1,4 +1,4 @@
-Hi, I'm Ronald. You can reach me at nronaldvdberg@gmail.com and info@wurdian.com. 
+Hi, I'm Ronald.
 
 <!---
 nronaldvdberg/nronaldvdberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
